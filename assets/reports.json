@@ -1,0 +1,121 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "doc_date": "2025-03-05",
+      "total_value": 903.75,
+      "detail_total_discount": 0,
+      "total_except_vat": 0,
+      "total_before_vat": 844.62,
+      "total_vat_value": 59.13,
+      "detail_total_amount": 903.75,
+      "total_discount": 0,
+      "total_amount": 903.75
+    },
+    {
+      "doc_date": "2025-03-06",
+      "total_value": 365,
+      "detail_total_discount": 0,
+      "total_except_vat": 0,
+      "total_before_vat": 341.12,
+      "total_vat_value": 23.88,
+      "detail_total_amount": 365,
+      "total_discount": 0,
+      "total_amount": 365
+    },
+    {
+      "doc_date": "2025-04-22",
+      "total_value": 80,
+      "detail_total_discount": 0,
+      "total_except_vat": 0,
+      "total_before_vat": 74.76,
+      "total_vat_value": 5.24,
+      "detail_total_amount": 80,
+      "total_discount": 0,
+      "total_amount": 80
+    },
+    {
+      "doc_date": "2025-05-19",
+      "total_value": 948.5,
+      "detail_total_discount": 0,
+      "total_except_vat": 0,
+      "total_before_vat": 886.43,
+      "total_vat_value": 62.07,
+      "detail_total_amount": 948.5,
+      "total_discount": 0,
+      "total_amount": 948.5
+    },
+    {
+      "doc_date": "2025-05-21",
+      "total_value": 50,
+      "detail_total_discount": 0,
+      "total_except_vat": 0,
+      "total_before_vat": 46.73,
+      "total_vat_value": 3.27,
+      "detail_total_amount": 50,
+      "total_discount": 0,
+      "total_amount": 50
+    },
+    {
+      "doc_date": "2025-05-30",
+      "total_value": 276,
+      "detail_total_discount": 0,
+      "total_except_vat": 0,
+      "total_before_vat": 276,
+      "total_vat_value": 0,
+      "detail_total_amount": 276,
+      "total_discount": 0,
+      "total_amount": 276
+    },
+    {
+      "doc_date": "2025-06-05",
+      "total_value": 200,
+      "detail_total_discount": 0,
+      "total_except_vat": 0,
+      "total_before_vat": 186.92,
+      "total_vat_value": 13.08,
+      "detail_total_amount": 200,
+      "total_discount": 0,
+      "total_amount": 200
+    },
+    {
+      "doc_date": "2025-06-11",
+      "total_value": 2189,
+      "detail_total_discount": 0,
+      "total_except_vat": 0,
+      "total_before_vat": 2045.79,
+      "total_vat_value": 143.21,
+      "detail_total_amount": 2189,
+      "total_discount": 950,
+      "total_amount": 1239
+    },
+    {
+      "doc_date": "2025-06-26",
+      "total_value": 2746.5,
+      "detail_total_discount": 0,
+      "total_except_vat": 0,
+      "total_before_vat": 2566.84,
+      "total_vat_value": 179.66,
+      "detail_total_amount": 2746.5,
+      "total_discount": 0,
+      "total_amount": 2746.5
+    },
+    {
+      "doc_date": "2025-06-27",
+      "total_value": 1855,
+      "detail_total_discount": 17,
+      "total_except_vat": 187.67,
+      "total_before_vat": 1542.37,
+      "total_vat_value": 107.96,
+      "detail_total_amount": 1838,
+      "total_discount": 0,
+      "total_amount": 1831
+    }
+  ],
+  "meta": {
+    "page": 1,
+    "size": 10,
+    "total": 12,
+    "total_page": 2
+  }
+}

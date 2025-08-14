@@ -1,0 +1,231 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "doc_date": "2025-03-29",
+      "total_value": 2272,
+      "detail_total_discount": 0,
+      "total_except_vat": 0,
+      "total_before_vat": 2272,
+      "total_vat_value": 0,
+      "detail_total_amount": 2272,
+      "total_discount": 0,
+      "total_amount": 2272
+    },
+    {
+      "doc_date": "2025-06-10",
+      "total_value": 3949,
+      "detail_total_discount": 0,
+      "total_except_vat": 0,
+      "total_before_vat": 3690.66,
+      "total_vat_value": 258.34,
+      "detail_total_amount": 3949,
+      "total_discount": 0,
+      "total_amount": 3949
+    },
+    {
+      "doc_date": "2025-06-12",
+      "total_value": 64440,
+      "detail_total_discount": 374.2,
+      "total_except_vat": 0,
+      "total_before_vat": 59874.56,
+      "total_vat_value": 4191.24,
+      "detail_total_amount": 64065.8,
+      "total_discount": 0,
+      "total_amount": 64065.8
+    },
+    {
+      "doc_date": "2025-06-13",
+      "total_value": 92930,
+      "detail_total_discount": 333.7,
+      "total_except_vat": 0,
+      "total_before_vat": 86538.61,
+      "total_vat_value": 6057.69,
+      "detail_total_amount": 92596.3,
+      "total_discount": 0,
+      "total_amount": 92596.3
+    },
+    {
+      "doc_date": "2025-06-14",
+      "total_value": 103159,
+      "detail_total_discount": 310.25,
+      "total_except_vat": 0,
+      "total_before_vat": 96120.28,
+      "total_vat_value": 6728.47,
+      "detail_total_amount": 102848.75,
+      "total_discount": 0,
+      "total_amount": 102848.75
+    },
+    {
+      "doc_date": "2025-06-15",
+      "total_value": 141540,
+      "detail_total_discount": 1222.2,
+      "total_except_vat": 0,
+      "total_before_vat": 131138.09,
+      "total_vat_value": 9179.71,
+      "detail_total_amount": 140317.8,
+      "total_discount": 0,
+      "total_amount": 140317.8
+    },
+    {
+      "doc_date": "2025-06-16",
+      "total_value": 72593,
+      "detail_total_discount": 557.6,
+      "total_except_vat": 0,
+      "total_before_vat": 67322.79,
+      "total_vat_value": 4712.61,
+      "detail_total_amount": 72035.4,
+      "total_discount": 0,
+      "total_amount": 72035.4
+    },
+    {
+      "doc_date": "2025-06-17",
+      "total_value": 80749,
+      "detail_total_discount": 453.2,
+      "total_except_vat": 0,
+      "total_before_vat": 75042.83,
+      "total_vat_value": 5252.97,
+      "detail_total_amount": 80295.8,
+      "total_discount": 0,
+      "total_amount": 80295.8
+    },
+    {
+      "doc_date": "2025-06-18",
+      "total_value": 76141,
+      "detail_total_discount": 1025.9,
+      "total_except_vat": 0,
+      "total_before_vat": 70201.04,
+      "total_vat_value": 4914.06,
+      "detail_total_amount": 75115.1,
+      "total_discount": 0,
+      "total_amount": 75115.1
+    },
+    {
+      "doc_date": "2025-06-19",
+      "total_value": 77423,
+      "detail_total_discount": 483.8,
+      "total_except_vat": 0,
+      "total_before_vat": 71905.76,
+      "total_vat_value": 5033.44,
+      "detail_total_amount": 76939.2,
+      "total_discount": 0,
+      "total_amount": 76939.2
+    },
+    {
+      "doc_date": "2025-06-20",
+      "total_value": 106398,
+      "detail_total_discount": 967.7,
+      "total_except_vat": 0,
+      "total_before_vat": 98532.9,
+      "total_vat_value": 6897.4,
+      "detail_total_amount": 105430.3,
+      "total_discount": 0,
+      "total_amount": 105430.3
+    },
+    {
+      "doc_date": "2025-06-21",
+      "total_value": 124465,
+      "detail_total_discount": 371.4,
+      "total_except_vat": 0,
+      "total_before_vat": 115975.4,
+      "total_vat_value": 8118.2,
+      "detail_total_amount": 124093.6,
+      "total_discount": 0,
+      "total_amount": 124093.6
+    },
+    {
+      "doc_date": "2025-06-22",
+      "total_value": 111454,
+      "detail_total_discount": 744.65,
+      "total_except_vat": 0,
+      "total_before_vat": 103466.63,
+      "total_vat_value": 7242.72,
+      "detail_total_amount": 110709.35,
+      "total_discount": 0,
+      "total_amount": 110709.35
+    },
+    {
+      "doc_date": "2025-06-23",
+      "total_value": 71945,
+      "detail_total_discount": 725.3,
+      "total_except_vat": 0,
+      "total_before_vat": 66560.45,
+      "total_vat_value": 4659.25,
+      "detail_total_amount": 71219.7,
+      "total_discount": 0,
+      "total_amount": 71219.7
+    },
+    {
+      "doc_date": "2025-06-24",
+      "total_value": 69312,
+      "detail_total_discount": 826.9,
+      "total_except_vat": 0,
+      "total_before_vat": 64004.81,
+      "total_vat_value": 4480.29,
+      "detail_total_amount": 68485.1,
+      "total_discount": 0,
+      "total_amount": 68485.1
+    },
+    {
+      "doc_date": "2025-06-25",
+      "total_value": 70679,
+      "detail_total_discount": 657.6,
+      "total_except_vat": 0,
+      "total_before_vat": 65440.62,
+      "total_vat_value": 4580.78,
+      "detail_total_amount": 70021.4,
+      "total_discount": 0,
+      "total_amount": 70021.4
+    },
+    {
+      "doc_date": "2025-06-26",
+      "total_value": 78024,
+      "detail_total_discount": 816.7,
+      "total_except_vat": 0,
+      "total_before_vat": 72156.35,
+      "total_vat_value": 5050.95,
+      "detail_total_amount": 77207.3,
+      "total_discount": 0,
+      "total_amount": 77207.3
+    },
+    {
+      "doc_date": "2025-06-27",
+      "total_value": 73793,
+      "detail_total_discount": 523.85,
+      "total_except_vat": 0,
+      "total_before_vat": 68475.83,
+      "total_vat_value": 4793.32,
+      "detail_total_amount": 73269.15,
+      "total_discount": 0,
+      "total_amount": 73269.15
+    },
+    {
+      "doc_date": "2025-06-28",
+      "total_value": 123773,
+      "detail_total_discount": 820.7,
+      "total_except_vat": 0,
+      "total_before_vat": 114908.67,
+      "total_vat_value": 8043.63,
+      "detail_total_amount": 122952.3,
+      "total_discount": 0,
+      "total_amount": 122952.3
+    },
+    {
+      "doc_date": "2025-06-29",
+      "total_value": 128407,
+      "detail_total_discount": 584.45,
+      "total_except_vat": 0,
+      "total_before_vat": 119460.28,
+      "total_vat_value": 8362.27,
+      "detail_total_amount": 127822.55,
+      "total_discount": 0,
+      "total_amount": 127822.55
+    }
+  ],
+  "meta": {
+    "page": 1,
+    "size": 20,
+    "total": 57,
+    "total_page": 3
+  }
+}
